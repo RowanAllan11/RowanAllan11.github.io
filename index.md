@@ -6,7 +6,7 @@ layout: default
 
 🧬 **AMRsplitter: A Workflow for Plasmid vs. Chromosome AMR Gene Localisation _(ongoing)_** <br>
 [View on GitHub](https://github.com/RowanAllan11/AMRsplitter) <br>
-- Developed and executed a comprehensive benchmarking workflow (composed in SnakeMake) utilising 'ground truth' hybrid assemblies to investigate the challenge of accurately detecting chromosomally-integrated plasmids and associated Antimicrobial Resistance (AMR) genes in Salmonella enterica short-read assemblies.
+- Developed and executed a comprehensive benchmarking workflow (composed in Snakemake) utilising 'ground truth' hybrid assemblies to investigate the challenge of accurately detecting chromosomally-integrated plasmids and associated Antimicrobial Resistance (AMR) genes in _Salmonella enterica_ short-read assemblies.
 - Demonstrated that existing plasmid classification tools significantly underperform in localizing AMR genes associated with single-event chromosomal integration (with one tool recording a 100% misclassification rate for chromosomal AMR genes); this work provides a rationale for prioritizing long-read sequencing for isolates where such integration events are suspected.
 
 🧬 **NMF L21 Normalisation: Molecular Cancer Class Discovery** <br>
@@ -16,17 +16,17 @@ clustering high-dimensional biological datasets under the supervision of Dr. Hai
 - Implemented normalisation techniques (max-norm, L21-norm) to assess robustness under noise and data
 heterogeneity, achieving consistent results across 100+ runs.
 
-🧠 **Bachelors thesis: In Vivo Analysis of the Epigenetic Landscape in Hydractinia symbiolongicarpus** <br>
+🧠 **Bachelors thesis: In Vivo Analysis of the Epigenetic Landscape in _Hydractinia symbiolongicarpus_** <br>
 [View Poster (PDF)](PDFs/Poster.pdf) <br>
 [Read full thesis (PDF)](PDFs/Thesis.pdf)
-- Used comparative genomics (BLAST) and single-cell transcriptomics to identify a DNMT3a homolog enriched in Hydractinia pluripotent interstitial cells (i-cells).
+- Used comparative genomics (BLAST) and single-cell transcriptomics to identify a DNMT3a homolog enriched in _Hydractinia_ pluripotent interstitial cells (i-cells).
 - Conducted in vivo immunofluorescence staining for key histone modifications (e.g., H4K16ac, H3K9me3) to characterize distinct chromatin organization across stem and differentiated cells.
 - Employed quantitative analysis (CV, Pearson's, Mander’s coefficients) using Fiji and MATLAB to statistically confirm the more open, euchromatic state of i-cells.
 
 📄 **Literature review: Targeting Genetic and Epigenetic Mechanisms for Precise Treatment in Rheumatoid Arthritis** <br>
 [Read full review (PDF)](PDFs/Review.pdf)
-- Authored a academic literature review, synthesising molecular insights into Rheumatoid Arthritis (RA) pathogenesis, focusing on the key role of the highly polymorphic HLA-DRB1 gene and the critical role of DNA methylation in Fibroblast-like Synoviocytes.
-- Analyzed the clinical utility of specific genomic biomarkers for enhancing RA treatment precision, detailing how specific HLA-DRB1 variants (e.g. valine at amino acid position 11) can predict favorable patient response to biological disease-modifying anti-rheumatic drugs (bDMARDs).
+- Authored an academic literature review, synthesising molecular insights into Rheumatoid Arthritis (RA) pathogenesis, focusing on the key role of the highly polymorphic _HLA-DRB1_ gene and the critical role of DNA methylation in Fibroblast-like Synoviocytes.
+- Analyzed the clinical utility of specific genomic biomarkers for enhancing RA treatment precision, detailing how specific _HLA-DRB1_ variants (e.g. valine at amino acid position 11) can predict favorable patient response to biological disease-modifying anti-rheumatic drugs (bDMARDs).
 
 🤖 **GWAS pipeline: Association Testing and QC Analysis** <br> 
 [View on GitHub](https://github.com/RowanAllan11/GWAS_pipeline) <br>
